@@ -1,0 +1,60 @@
+html body.customized #loading-bar .bar {
+    background: #CC2A00;
+}
+
+html body.customized .container > .row > .sidebar .sidebar-item.active > div > .expander, 
+html body.customized .container > .row > .sidebar .sidebar-item.active > div > .link ,
+html body.customized .container > .sidebar .sidebar-item.active > div > .expander, 
+html body.customized .container > .sidebar .sidebar-item.active > div > .link  {
+    background: #CC2A00;
+}
+
+html body.customized .container > .row > .sidebar .sidebar-item h5,
+html body.customized .container > .sidebar .sidebar-item h5 {
+    color: #CC2A00;
+}
+
+html body.customized .form-control:focus {
+    border-bottom-color: #CC2A00;
+}
+
+html body.customized .form-control:focus + .input-group-addon {
+    border-bottom-color: #CC2A00;
+    a i { color: #CC2A00; }
+}
+
+html body.customized .navbar-brand .title {
+    color: #CC2A00;
+}
+
+html body.customized .navbar-brand.navigation-toggle {
+    color: #CC2A00;
+}
+
+html body.customized .btn-primary {
+    background: #CC2A00;
+    border: #AA1A00;
+}
+
+html body.customized .btn-flat {
+    color: #CC2A00;
+}
+
+html body.customized *[checkbox].active i.on {
+    color: #CC2A00;
+}
+
+html body.customized smart-progress .progress .progress-bar {
+    background: #CC2A00;
+}
+
+html body.customized progress-spinner .one {
+    border-left-color: #CC2A00;
+    border-top-color: #CC2A00;
+}
+
+html body.customized .nav-tabs > li.active > a,
+html body.customized .nav-tabs > li.active > a:hover {
+    border-bottom: 1px solid #CC2A00;
+    color: #CC2A00;
+}

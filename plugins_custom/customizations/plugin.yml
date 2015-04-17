@@ -1,0 +1,13 @@
+name: customizations
+author: ACME Inc
+email: g.orsay@acme.com
+url: http://acme.com
+version: '0.1'
+title: 'Customizations'
+icon: cog
+dependencies:
+    - !!python/object:aj.plugins.PluginDependency { plugin_name: core }
+resources:
+    - 'resources/css/styles.css'
+    - 'resources/js/module.js'
+    - 'ng:branding'

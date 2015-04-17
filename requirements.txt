@@ -1,0 +1,6 @@
+aj>=2.0.34
+pyyaml
+ajenti.plugin.core
+ajenti.plugin.settings
+ajenti.plugin.filemanager
+ajenti.plugin.notepad
